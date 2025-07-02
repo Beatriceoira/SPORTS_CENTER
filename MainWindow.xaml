@@ -1,0 +1,40 @@
+﻿<Window x:Class="IMS_SPORTS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IMS_SPORTS"
+        mc:Ignorable="d"
+        Title="Login" Height="450" Width="800" WindowStartupLocation="CenterScreen" Background="#FFE0BBBB" Icon="/LOGOWPF.png">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="423*"/>
+            <RowDefinition Height="11*"/>
+        </Grid.RowDefinitions>
+        <Rectangle x:Name="BG_Box" HorizontalAlignment="Left" Height="366" Margin="322,0,0,0" VerticalAlignment="Center" Width="456" Fill="#FFF3C49C" RadiusX="10" RadiusY="10" Stroke="Black"/>
+        <Label x:Name="welcome_Back" Content="Welcome Back" HorizontalAlignment="Left" Margin="357,47,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="#FF060606" FontWeight="Bold" FontSize="50" FontFamily="Segoe Script"/>
+        <TextBox x:Name="username_txtbox" HorizontalAlignment="Left" Margin="387,193,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="343" Height="42" BorderBrush="Black"/>
+        <Label x:Name="Username_lbl" Content="USERNAME" HorizontalAlignment="Left" Margin="387,169,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold" FontWeight="Bold"/>
+        <Label x:Name="pw_lbl" Content="PASSWORD" HorizontalAlignment="Left" Margin="387,249,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Bahnschrift SemiBold"/>
+        <Button x:Name="login_btn" Content="LOGIN" Click="Login_btn_Click" HorizontalAlignment="Left" Margin="673,346,0,0" VerticalAlignment="Top" BorderThickness="1,1,1,1" BorderBrush="#FF3A5819" Background="#FF7BE09C" Height="24" Width="57" FontWeight="Bold" FontFamily="Trebuchet MS" RenderTransformOrigin="0.52,0.128"/>
+        <Rectangle x:Name="line_rectangle" HorizontalAlignment="Left" Height="1" Margin="363,135,0,0" Stroke="Black" VerticalAlignment="Top" Width="373" RenderTransformOrigin="0.5,0.5">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle>
+        <Image x:Name="bg_image" HorizontalAlignment="Left" Height="310" Margin="26,84,0,0" VerticalAlignment="Top" Width="261" Source="/BgImage.png"/>
+        <Expander HorizontalAlignment="Left" Height="100" Header="Expander" Margin="406,101,0,0" Grid.Row="1" VerticalAlignment="Top" Width="100">
+            <Grid Background="#FFE5E5E5"/>
+        </Expander>
+        <PasswordBox x:Name="password_box" HorizontalAlignment="Left" Margin="387,273,0,0" VerticalAlignment="Top" Width="344" Height="42" BorderBrush="Black"/>
+
+
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+﻿<Window x:Name="Confirmation1" x:Class="IMS_SPORTS.Confirmation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IMS_SPORTS"
+        mc:Ignorable="d"
+        Title="Confirmation" Height="450" Width="800" Background="#FFE0BBBB" Icon="/LOGOWPF.png" WindowStartupLocation="CenterOwner">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="304" Margin="30,82,0,0" VerticalAlignment="Top" Width="270" Source="/BgImage.png"/>
+        <Label x:Name="confirmation_lbl" Content="ARE YOU SURE DO YOU WANT TO &#xD;&#xA;      PERFORM THIS ACTION?" HorizontalAlignment="Left" Margin="333,149,0,0" VerticalAlignment="Top" FontFamily="Bahnschrift SemiBold" FontSize="30" Foreground="White"/>
+        <Button x:Name="no_btn" Content="NO" HorizontalAlignment="Left" Margin="359,267,0,0" VerticalAlignment="Top" Height="53" Width="170" BorderBrush="Black" Background="#FFED5454" FontSize="25" FontWeight="Bold" FontFamily="Bahnschrift SemiBold"/>
+        <Button x:Name="yes_btn" Content="YES" HorizontalAlignment="Left" Margin="582,267,0,0" VerticalAlignment="Top" Height="53" Width="170" Background="#FF46D47D" FontSize="25" FontWeight="Bold" FontFamily="Bahnschrift SemiBold"/>
+
+    </Grid>
+</Window>

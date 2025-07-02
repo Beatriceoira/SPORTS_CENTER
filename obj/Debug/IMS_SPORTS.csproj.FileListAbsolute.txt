@@ -1,0 +1,32 @@
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\bin\Debug\IMS_SPORTS.exe.config
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\bin\Debug\IMS_SPORTS.exe
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\bin\Debug\IMS_SPORTS.pdb
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\IMS_SPORTS.csproj.AssemblyReference.cache
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\AuditLog.g.cs
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\Confirmation.g.cs
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\Inventory Management.g.cs
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\MainWindow.g.cs
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\MyDashboard.g.cs
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\Purchase Order Lists.g.cs
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\Purchase Order.g.cs
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\UserManagement.g.cs
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\App.g.cs
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\IMS_SPORTS_MarkupCompile.cache
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\IMS_SPORTS_MarkupCompile.lref
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\AuditLog.baml
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\Confirmation.baml
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\Inventory Management.baml
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\MainWindow.baml
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\MyDashboard.baml
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\Purchase Order Lists.baml
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\Purchase Order.baml
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\UserManagement.baml
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\IMS_SPORTS.g.resources
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\IMS_SPORTS.Properties.Resources.resources
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\IMS_SPORTS.csproj.GenerateResource.cache
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\IMS_SPORTS.csproj.CoreCompileInputs.cache
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\IMS_SPORTS.csproj.Up2Date
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\IMS_SPORTS.exe
+C:\Users\blanc\Source\Repos\IMS_SPORTS\IMS_SPORTS\obj\Debug\IMS_SPORTS.pdb
